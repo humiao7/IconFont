@@ -1,0 +1,13 @@
+{
+  "name": "IconFont-fsm",
+  "homepage": "https://github.com/humiao7/IconFont",
+  "_release": "550c850b80",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "550c850b80375b3ee4f0d88c149f239a74c8f7e9"
+  },
+  "_source": "https://github.com/humiao7/IconFont.git",
+  "_target": "*",
+  "_originalSource": "IconFont-fsm"
+}
